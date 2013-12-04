@@ -163,3 +163,4 @@ For more information visit: https://github.com/karlgoldstein/grunt-html2js
 * publish Bower and NuGet packages
 
 Well done! (If you don't like repeating yourself open a PR with a grunt task taking care of the above!)
+Hillow
